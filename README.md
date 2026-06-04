@@ -9,6 +9,7 @@ Production-quality Time-Off management frontend built with **Next.js 14 App Rout
 | Live App | https://examplehr-timeoff-dun.vercel.app/employee |
 | Storybook | https://examplehr-timeoff-dfcj-3a6z6hiyh.vercel.app |
 | GitHub | https://github.com/umairm1alik/examplehr-timeoff |
+| TRD | See `docs/TRD_Umair_Shahzad.pdf` |
 
 ## Prerequisites
 
